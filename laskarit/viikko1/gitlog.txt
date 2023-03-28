@@ -1,0 +1,89 @@
+commit f3e0b23cc8ecb581b8d5672123f070904d60dc78
+Author: Adamgiirre <adam.giire@hotmail.com>
+Date:   Tue Nov 9 22:43:57 2021 +0200
+
+    tiedosto poistettu
+
+ eka.txt | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 5192707366f3ae1632dd166d6aa89a765b5872b6
+Author: Adamgiirre <adam.giire@hotmail.com>
+Date:   Tue Nov 9 22:38:02 2021 +0200
+
+    1
+
+ kolmas.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit c9551338ad89c4b6f8a51d2520179924e8621727
+Author: Adamgiirre <adam.giire@hotmail.com>
+Date:   Tue Nov 9 22:28:15 2021 +0200
+
+    tiedosto poistettu
+
+ tiedosto.txt | 2 --
+ 1 file changed, 2 deletions(-)
+
+commit fe3fe843723b962d895f1b866c1abd495745631e
+Author: Adamgiirre <adam.giire@hotmail.com>
+Date:   Tue Nov 9 22:13:18 2021 +0200
+
+    tiedosto poistettu
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 1166eabfd78529b659afefb336d4471fc1dac730
+Author: Adamgiirre <adam.giire@hotmail.com>
+Date:   Tue Nov 9 21:49:19 2021 +0200
+
+    muutos ja lisäys
+
+ stuff/tuff.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 1f7db4dcde5921653121030f734292b6a99fcd8d
+Author: Adamgiirre <adam.giire@hotmail.com>
+Date:   Tue Nov 9 21:47:14 2021 +0200
+
+    muutos ja lisäys
+
+ kolmas.txt   | 1 +
+ tiedosto.txt | 2 +-
+ toinen.txt   | 1 +
+ 3 files changed, 3 insertions(+), 1 deletion(-)
+
+commit b4dcdafc72f61c4b6a60e955c51e529b0a88f54d
+Author: Adamgiirre <adam.giire@hotmail.com>
+Date:   Tue Nov 9 21:45:37 2021 +0200
+
+    muutos ja lisäys
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 2d83148c5c8a492163c637086e993c1fd2e5b2b9
+Author: Adamgiirre <adam.giire@hotmail.com>
+Date:   Tue Nov 9 21:35:54 2021 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 2 ++
+ toinen.txt   | 0
+ 2 files changed, 2 insertions(+)
+
+commit cde5dfd89e73549cb4aa89d1e1a17616a9dbf695
+Author: Adamgiirre <adam.giire@hotmail.com>
+Date:   Tue Nov 9 21:26:14 2021 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+
+
+
+
+
