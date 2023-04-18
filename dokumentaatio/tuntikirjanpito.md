@@ -4,4 +4,6 @@
 | :----:|:-----| :-----|
 | 28.3. | 3    | tutustuminen materiaaliin |
 | 28.3. | 1    | Vaatimusmäärittely |
-| yht   | 4   | | 
+| 17.4. | 5    | Viikko 4 |
+| 18.4. | 3    | Viikko 4 |
+| yht   | 12   | | 
