@@ -6,7 +6,7 @@
 
 [Vaatimusmäärittely](./dokumentaatio/vaatimusmaarittely.md)
 
-[Vaatimusmaarittely](./dokumentaatio/vaatimusmaarittely.md)
+[arkkitehtuuri.md](./dokumentaatio/arkkitehtuuri.md)
 
 [Changelog](./dokumentaatio/changelog.md)
 
